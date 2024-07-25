@@ -16,6 +16,6 @@ To use the password generator app, follow these steps:
    ```bash
    git clone https://github.com/ToXiC2519/Password-Generator.git
 cd Password-Generator
-# Open index.html in your preferred web browser
+file:///D:/javascript-projects-main/javascript-projects-main/random-password/index.html
 
 This template assumes the JavaScript application is built to run in the browser using HTML and CSS for basic styling. Adjust the sections and content based on additional features or specific instructions provided in the repository.
