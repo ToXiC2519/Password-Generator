@@ -16,6 +16,6 @@ To use the password generator app, follow these steps:
    ```bash
    git clone [https://github.com/ToXiC2519/Password-Generator.git](http://127.0.0.1:5500/)
 cd Password-Generator
-[Your link here](https://github.com/ToXiC2519/Password-Generator.git)
+[Your link here](https://pixmusicax.github.io/Password-Generator)
 
 This template assumes the JavaScript application is built to run in the browser using HTML and CSS for basic styling. Adjust the sections and content based on additional features or specific instructions provided in the repository.
